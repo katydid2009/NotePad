@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1000087d36c9a5ae5cef135a1337be3e62dc083e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="F:\Android\NotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_014f6475dd9ec95f869b0eb5e32a329982f2ce90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1000087d36c9a5ae5cef135a1337be3e62dc083e\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="F:\Android\NotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_887fe1300de3bf172a50c6052145c63315fd59b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\NotePad\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="F:\Android\NotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3b3d45986936ba96be6bc8d85ad397586a4015ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\a8cf62f640654e8c18d1df2174229e1b6a946b15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="F:\Android\NotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf00e2bc804c69e28ac0c962e4477af48521e9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\NotePad\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5faa492ada6567c2f32222d78334788358312bc3">
+        <dex dex="F:\Android\NotePad\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e368750300f06e96a273084e676e35b2f7a98bbc\classes.dex" />
+    </item>
+
+</items>

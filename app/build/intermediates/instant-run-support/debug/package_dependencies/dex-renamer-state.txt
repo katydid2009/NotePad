@@ -1,0 +1,13 @@
+#Mon May 15 12:45:26 CST 2017
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.3=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_e7d67d08d0d607725941ee82814ec48dc57c7aec
+base.2=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_014f6475dd9ec95f869b0eb5e32a329982f2ce90
+base.1=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cf00e2bc804c69e28ac0c962e4477af48521e9f7
+base.0=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_887fe1300de3bf172a50c6052145c63315fd59b9
+file.3=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-20.0.0_e7d67d08d0d607725941ee82814ec48dc57c7aec\\classes.dex
+file.2=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_014f6475dd9ec95f869b0eb5e32a329982f2ce90\\classes.dex
+file.1=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_cf00e2bc804c69e28ac0c962e4477af48521e9f7\\classes.dex
+file.0=F\:\\Android\\NotePad\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-20.0.0_887fe1300de3bf172a50c6052145c63315fd59b9\\classes.dex

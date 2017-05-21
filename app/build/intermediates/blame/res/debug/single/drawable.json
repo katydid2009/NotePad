@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_photo.png",
+        "source": "F:\\Android\\Notes\\app\\src\\main\\res\\drawable\\icon_photo.png"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_photo.png",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\drawable\\icon_photo.png"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.jpg",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\drawable\\add.jpg"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_video.png",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\drawable\\icon_video.png"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add.png",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search.png",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_video.png",
+        "source": "F:\\Android\\Notes\\app\\src\\main\\res\\drawable\\icon_video.png"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_favorite_black_48dp.png",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\drawable\\ic_favorite_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\a8cf62f640654e8c18d1df2174229e1b6a946b15\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    }
+]

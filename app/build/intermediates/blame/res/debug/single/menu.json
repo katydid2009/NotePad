@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\Notes\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Android\\Notes\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_mode.xml",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\menu\\action_mode.xml"
+    },
+    {
+        "merged": "F:\\Android\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "F:\\Android\\NotePad\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
